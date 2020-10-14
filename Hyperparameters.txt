@@ -1,0 +1,7 @@
+[data paths]
+image_path = ../pro_ear_dataset/
+
+[train settings]
+batch_size16 = 16
+batch_size32 = 32
+epochs = 1000
